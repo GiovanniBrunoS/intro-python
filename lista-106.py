@@ -53,4 +53,4 @@ def leitor_cpfs():
     return len(set_cpfs)
 
 
-leitor_cpfs()
+print(leitor_cpfs())
